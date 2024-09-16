@@ -1,0 +1,3 @@
+C:/Users/kitki/CLionProjects/hse/QueueAndStack/cmake-build-debug/CMakeFiles/QueueAndStack.dir
+C:/Users/kitki/CLionProjects/hse/QueueAndStack/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/kitki/CLionProjects/hse/QueueAndStack/cmake-build-debug/CMakeFiles/rebuild_cache.dir
